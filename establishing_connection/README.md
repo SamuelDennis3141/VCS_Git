@@ -6,7 +6,7 @@ SSH and HTTP Connection will be covered here.
 
 ## HTTPS Connection
 
-The https method is the most simple to set up however is not as secure as 
+The https method is the most simple to set up however is not as secure as SSH
 ```
 echo "# test" >> README.md
 git init
